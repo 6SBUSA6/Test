@@ -324,7 +324,7 @@ h2 {
 					<dd id="btn-dd">
 						<span class="new-btn-login-sp">
 							<button class="new-btn-login" type="submit"
-								style="text-align: center;">退 款 查 询</button>
+								style="text-align: center;">退 款 查 询asfaf</button>
 						</span> <span class="note-help">商户订单号与支付宝交易号二选一，如果您点击“退款查询”按钮，即表示您同意该次的执行操作。</span>
 					</dd>
 				</dl>
