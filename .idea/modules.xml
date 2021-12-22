@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BankSoftWare/BankSoftWare.iml" filepath="$PROJECT_DIR$/BankSoftWare/BankSoftWare.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Books_gyw/Books_gyw.iml" filepath="$PROJECT_DIR$/Books_gyw/Books_gyw.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FruitManager/FruitManager.iml" filepath="$PROJECT_DIR$/FruitManager/FruitManager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/goodsManager/GoodsManager.iml" filepath="$PROJECT_DIR$/goodsManager/GoodsManager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/H5_test/H5_test.iml" filepath="$PROJECT_DIR$/H5_test/H5_test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JDBC01/JDBC01.iml" filepath="$PROJECT_DIR$/JDBC01/JDBC01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test.iml" filepath="$PROJECT_DIR$/Test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/alipayTest/alipayTest.iml" filepath="$PROJECT_DIR$/alipayTest/alipayTest.iml" />
+    </modules>
+  </component>
+</project>
