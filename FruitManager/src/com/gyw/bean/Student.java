@@ -7,4 +7,21 @@ package com.gyw.bean;
  */
 public class Student {
     private int sid;
+    private int age;
+
+    public int getSid() {
+        return sid;
+    }
+
+    public void setSid(int sid) {
+        this.sid = sid;
+    }
+
+    public int getAge() {
+        return age;
+    }
+
+    public void setAge(int age) {
+        this.age = age;
+    }
 }
